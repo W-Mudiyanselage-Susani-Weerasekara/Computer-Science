@@ -1,2 +1,2 @@
-# Computer-Science-Final-Project
+# Computer-Science
 Team Project
